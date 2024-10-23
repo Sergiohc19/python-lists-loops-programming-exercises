@@ -3,6 +3,8 @@ sample_list = [45, 67, 87, 23, 5, 32, 60]
 # Your code below
 new_list = []
 
+### Se podría hacer tambíen con el método reversed
+
 # for items in reversed(sample_list):
 #     new_list.append(items)
 
